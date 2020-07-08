@@ -13,8 +13,8 @@ git push --force origin HEAD:gh-pages
 
 REM To delete the dist folder
 
-echo delete-directory: "%cd%/dist"
-rmdir /s /q "%cd%/dist"
+echo delete-directory: "vuepress-blog"
+rmdir /s /q "vuepress-blog"
 cd..
 cd..
 echo Auto-Deploy-Complete!
