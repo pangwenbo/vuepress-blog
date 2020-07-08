@@ -1,7 +1,7 @@
 module.exports = {
     title: '前端小庞',
     description: '小庞带你上高速',
-    dest: './vuepress-blog',
+    dest: '/vuepress-blog/',
     port: '7777',
     head: [
         ['link', {rel: 'icon', href: '/img/logo.jpeg'}],
